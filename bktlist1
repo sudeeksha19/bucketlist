@@ -38,7 +38,7 @@
       </section>
       <section id="signin" class="signin">
         <div class="inner">
-          <h1>Education</h1>
+          <h1>Sign in</h1>
           <div class="textbox">
            <input type="text" placeholder="Username" name="" value="Username" required>
 	         </div>
